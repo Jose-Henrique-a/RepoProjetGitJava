@@ -9,7 +9,7 @@ public class appConta {
         Conta c1, c2;
         
         c1 = new Conta();
-        p1 = new Pessoa("Fulano", "funalo@email.com");
+        p1 = new Pessoa("Fulanojose", "josefunalo@email.com");
         
         p2 = new Pessoa();
         c2 = new Conta(654321, p1 , 750.00f);
