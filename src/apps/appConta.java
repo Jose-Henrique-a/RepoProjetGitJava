@@ -38,7 +38,6 @@ public class appConta {
         }
         
         c2.depositar(100);
-
         System.out.println("Novo saldo da conta: " + c2.getSaldo());
     }
 }
