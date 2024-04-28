@@ -12,8 +12,6 @@ public abstract class Conta {
     public final static int SACAR = 0;
     public final static int DEPOSITAR = 1;
    
-
-    
     public Conta(){ 
         incrementaContas();
     }
