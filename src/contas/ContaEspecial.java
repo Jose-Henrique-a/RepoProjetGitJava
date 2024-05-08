@@ -8,8 +8,8 @@ public final class ContaEspecial extends Conta implements Taxas{
     private float limite;
 // Construtor 
     public ContaEspecial(){
-
     }
+    
     public ContaEspecial(int numero, Pessoa correntista, float valor, float limite){
         super(numero, correntista, valor);
         this.setLimite(limite);
