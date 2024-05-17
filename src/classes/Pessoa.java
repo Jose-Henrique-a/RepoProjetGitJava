@@ -4,7 +4,6 @@ public class Pessoa {
     private String email;
 
     public Pessoa(){
-        
     }
     public Pessoa(String nome, String email){
         this.nome = nome;
