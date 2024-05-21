@@ -5,7 +5,6 @@ import classes.Pessoa;
 public class ContaPoupanca extends Conta{
    
     public ContaPoupanca(){
-
     }
     public ContaPoupanca(int numero, Pessoa correntista, float valor){
         super(numero, correntista, valor);
